@@ -1,2 +1,2 @@
 # QConciliacion
-Aplicación para la conciliación bancanria
+Aplicación para la conciliación bancaria
